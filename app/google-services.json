@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "497154818383",
+    "firebase_url": "https://cutapp-92682.firebaseio.com",
+    "project_id": "cutapp-92682",
+    "storage_bucket": "cutapp-92682.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497154818383:android:9b486975017a878cc3853a",
+        "android_client_info": {
+          "package_name": "com.example.cutapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497154818383-sn393hi0nun4t7m42jdd3fooclo55riq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cutapp",
+            "certificate_hash": "b93ff474ad7e1d6a3ea6da366cd9104b07676f81"
+          }
+        },
+        {
+          "client_id": "497154818383-au79gm43hkl8t1hsbi8n5lup1a5f8ftl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnNIwDsFEVC7fWxClDvEHie6TQ0rixzng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497154818383-au79gm43hkl8t1hsbi8n5lup1a5f8ftl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
